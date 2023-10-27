@@ -30,3 +30,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 This link gives access to my linkedin: https://www.linkedin.com/in/tassia-campos-819544165
+
+
+https://www.loom.com/share/27aff2c8724342a5ab7d94ab81bd13dd
